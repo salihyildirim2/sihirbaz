@@ -1,14 +1,14 @@
 # Built application files
-*.apk
-*.aar
-*.ap_
-*.aab
+*delta 3356.apk
+*delta 232.aar
+*delta 185.ap_
+*delta 911.aab
 
 # Files for the ART/Dalvik VM
-*.dex
+*bumerang 772.dex
 
 # Java class files
-*.class
+*32kb+3gigabytes.class=1
 
 # Generated files
 bin/
